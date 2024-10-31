@@ -1,1 +1,1 @@
-# practice_mlops
+# mlops_template
